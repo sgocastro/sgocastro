@@ -1,6 +1,6 @@
 # Hi human :wave: My name is Santiago Matias Castro and I'm Front End Developer :computer::art:
 
-+4 years experience in the world of programming and +2 years exclusively focused on Front End technologies.
++4 years experience in the web development.
 
 ## About me
 * :argentina: Made in Argentina
